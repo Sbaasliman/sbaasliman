@@ -1,6 +1,6 @@
 ## Overview
 
-Hello, I'm Sabaa Sliman! 👋 I'm a DevOps Engineer and QA Execution Automation Engineer, all rolled into one! 💻🚀.
+Hello, I'm Sabaa Sliman! 👋 I'm a DevOps Engineer and QA  Automation Engineer, all rolled into one! 💻🚀.
 
 My expertise spans Python scripting, Flask backend programming, AWS integration, Linux environment, bash scripting, CI/CD pipelines, and Kubernetes clusters.
 
