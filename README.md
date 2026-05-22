@@ -8,7 +8,7 @@ My expertise spans Python scripting, Flask backend programming, AWS integration,
 
 - 🎓 Bachelor's degree in Computer Science and Mathematics, graduated with honors.
 - 💻 Proficient in DevOps & Cloud Technologies, including AWS EC2, EBS, S3, VPC, Lambda, Kubernetes, Jenkins, and Nexus.
-- 📊 Experience as a QA Execution Automation Engineer at Radware ADC, where I designed and implemented CI/CD pipelines using Jenkins for automated software delivery, managed test scenarios, and received outstanding worker award.
+- 📊 Experience as a QA  Automation Engineer at Radware ADC, where I designed and implemented CI/CD pipelines using Jenkins for automated software delivery, managed test scenarios, and received outstanding worker award.
 - 🤝 Active contributor to Open-Source Projects or Communities.
 - 🏆 Winner at Radware outstanding worker.
 
